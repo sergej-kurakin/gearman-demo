@@ -1,4 +1,4 @@
-= Gearman Demo
+# Gearman Demo
 
 This is a a Gearman Demo setup using Vagrant, Debian Wheezy (custom box) and PHP.
 
